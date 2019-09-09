@@ -1,0 +1,61 @@
+
+.qrcodeCon{
+	display: none;
+}
+#ftCon{
+	display: none;
+}
+#u1{
+	display: none;
+}
+
+
+
+.container_s #content_right{
+	display: none;
+}
+.container_l #content_right{
+    display: none;
+}
+
+#s_tab{
+    text-align: center;
+}
+
+body{
+	background: white;
+}
+#content_left{
+	background: white;
+}
+
+.nums{
+	padding-left: 31%!important;
+}
+
+#content_left {
+	padding-left: 35%!important;
+}
+
+
+.c-container{
+	border: 0.1px solid aqua;
+	border-radius: 9px;
+}
+
+#con-ar{
+	display: none;
+}
+
+#rs .tt{
+	padding-left: 50%!important;
+}
+
+#rs table{
+	margin-left: 50%!important;
+}
+
+#page{
+	padding-left: 35%!important;
+}
+
